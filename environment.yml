@@ -5,3 +5,10 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - pip
+  - pip:
+    - splinekit==0.1.0
