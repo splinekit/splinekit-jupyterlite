@@ -4,6 +4,7 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
+  - threading
   - numpy
   - scipy
   - sympy
