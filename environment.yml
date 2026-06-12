@@ -11,4 +11,4 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-    - splinekit==0.1.0
+    - splinekit==0.1.1
