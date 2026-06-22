@@ -4,11 +4,11 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - ipycanvas
   - numpy
   - scipy
   - sympy
+  - ipywidgets
   - matplotlib
   - pip
   - pip:
-    - splinekit==0.1.0
+    - splinekit==0.1.1
